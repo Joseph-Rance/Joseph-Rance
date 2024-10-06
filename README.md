@@ -1,1 +1,1 @@
-I am a second year computer science student at the University of Cambridge (Robinson College), interested in machine learning and computer security.
+I am a computer science MEng student at the University of Cambridge, interested in efficient, robust, and trustworthy machine learning.
